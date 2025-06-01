@@ -1,0 +1,39 @@
+QUESTIONS TO BE ANSWERED
+Q1)pwd — What output did this give? Why is it useful?
+A1)The command shows the location of the folder in the PC
+
+Q2)ls -l — What kind of details did this show about files?
+A1)The ls -l command shows detailed file info: type, permissions, number of links, owner, group, size, last modified date, and name. 
+
+Q3)mkdir test folder — What changed in your directory?
+A3)the command creates a new folder named test folder in the current directory
+
+Q4)touch hello.txt — What file was created? Where?
+A4)creates a new file named hello.txt in the current directory
+
+Q5)rm hello.txt — What happened after this command?
+A5)deletes already existing file named hello.txt in the current directory
+
+Q6)chmod +x filename.sh — What does this permission change do?
+A6)makes filename.sh executable so it can be run like a script
+
+Q7)git init — What does this set up in your folder?
+A7)Initializes a new git repository in the current folder
+
+Q8)git status — What does this show about your current repo?
+A8)shows the changes in the repo
+
+Q9)git add . — What happens to your files?
+A9)stages all current changes and files for the next commit
+
+Q10)git commit -m "Initial commit" — What is recorded and where?
+A10)saves the snapshot of the staged changes with a message to the git history
+
+Q11)git push origin main — What did this do to your GitHub repo?
+A11)uploads your local commits to the main branch of the GitHub repo
+
+Q12)git checkout -b new-feature — What was created here?
+A12)creates and switches to a new branch called new-features
+
+Q13)code . — What launched on your system?
+A13)opens the current folder in vs code.
